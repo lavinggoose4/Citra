@@ -217,4 +217,4 @@ Citra is offered as a full free version, providing all features and updates. The
 Download Citra now and immerse yourself in the world of Nintendo 3DS gaming on your Windows PC!
 
 ---
-**Last updated:** 2026-10-03 12:56:59 UTC
+**Last updated:** 2026-10-03 16:59:46 UTC
